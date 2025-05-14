@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://thoth.pub/">
-    <img alt="Thoth" src="https://cdn.thoth.pub/THOTH_ColourPos.png" height="100" />
+    <img alt="Thoth" src="https://cdn.thoth.pub/THOTH_ColourPos.png" height="200" />
   </a>
 
   <h1>Thoth</h1>
